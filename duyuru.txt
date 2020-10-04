@@ -1,15 +1,8 @@
-Evade optimization fix
-
-Orbwalker optimization fix
-
-Tracker optimization fix
-
-Lilia evade spell added
-
-Samira evade spell added
-
-Yone evade spell added
-
-Xerath Slowly R fix
-
-Nidale/Janna/GP crash fix
+Evade optimization fix\r\n
+Orbwalker optimization fix\r\n
+Tracker optimization fix\r\n
+Lilia evade spell added\r\n
+Samira evade spell added\r\n
+Yone evade spell added\r\n
+Xerath Slowly R fix\r\n
+Nidale/Janna/GP crash fix\r\n
