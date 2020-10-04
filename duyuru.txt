@@ -1,1 +1,8 @@
-"Auth Error fix!" + vbNewLine + "zEvade Fix" + vbNewLine + "Draw FOW skillshot fix!" + vbNewLine + "Enemy QWERT Tracker fix!" +vbNewLine + "Enemy DF Tracker fix!" + vbNewLine + "QWERT draw fix!" + vbNewLine + "Some crash fix!" + vbNewLine + "Some bugs Fix!" + vbNewLine + "Skin Fix"
+Evade optimization fix
+Orbwalker optimization fix
+Tracker optimization fix
+Lilia evade spell added
+Samira evade spell added
+Yone evade spell added
+Xerath Slowly R fix
+Nidale/Janna/GP crash fix
