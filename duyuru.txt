@@ -1,4 +1,5 @@
-05.10.2020 Menu crash fix-
+05.10.2020-
+Menu crash fix-
 Evade optimization fix-
 Orbwalker optimization fix-
 Tracker optimization fix-
