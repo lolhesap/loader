@@ -1,8 +1,15 @@
 Evade optimization fix
+
 Orbwalker optimization fix
+
 Tracker optimization fix
+
 Lilia evade spell added
+
 Samira evade spell added
+
 Yone evade spell added
+
 Xerath Slowly R fix
+
 Nidale/Janna/GP crash fix
