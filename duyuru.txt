@@ -1,9 +1,2 @@
-05.10.2020-
-Menu crash fix-
-Evade optimization fix-
-Orbwalker optimization fix-
-Tracker optimization fix-
-Lilia evade spell added-
-Yone evade spell added-
-Xerath Slowly R fix-
-Nidale/Janna/Elise/GP fix-
+06.10.2020-
+Fixed some Evade errors-
