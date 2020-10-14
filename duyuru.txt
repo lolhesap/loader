@@ -2,3 +2,4 @@
 10.21 Durum: Güncelleniyor...-
 EN:Please wait update script for use-
 TR:Lütfen Scriptin güncellenmesini bekleyiniz-
+Suan scripti kullanmazsınız !
