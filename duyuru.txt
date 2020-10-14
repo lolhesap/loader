@@ -1,4 +1,4 @@
 10.21 Status: Updating...-
 10.21 Durum: Güncelleniyor...-
-Please wait update script for use-
-Lütfen Scriptin güncellenmesini bekleyiniz-
+EN:Please wait update script for use-
+TR:Lütfen Scriptin güncellenmesini bekleyiniz-
