@@ -1,5 +1,5 @@
-10.21 Status: Updating...-
-10.21 Durum: Güncelleniyor...-
+10.21 Status: Not working..
+10.21 Durum: Calismiyor..
 EN:Please wait update script for use-
 TR:Lütfen Scriptin güncellenmesini bekleyiniz-
 Suan scripti kullanmazsınız !
