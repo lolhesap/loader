@@ -1,2 +1,2 @@
-10.21.1 Status: Working-
-FPS problem fix-
+Current Version: 10.21.2 Status: Working-
+Fixed minor bugs-
