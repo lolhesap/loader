@@ -1,4 +1,4 @@
-Version: 10.22/Working-
-New evade[BETA] added-
-Fixed some errors-
-Let us know about your issues or suggestions on Discord #bug-reports channel-
+→ Version: 10.22/Working-
+→ New evade[BETA] added-
+→ Press ''RESET CONFIG SETTINGS''-
+→ Let us know about your issues or suggestions on Discord #bug-reports channel-
