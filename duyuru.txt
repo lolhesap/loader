@@ -1,7 +1,6 @@
-→ Version: 10.22/Working-
-→ New evade[BETA] added-
+→ Version: 10.22/Working/UD-
+→ New Evade added-
+→ Added Seraphine Dodge and logic+-
 → Added Irelia logic+-
 → Added Jinx logic+-
-→ All error fix-
-→ Press ''RESET CONFIG SETTINGS''-
 → Let us know about your issues or suggestions on Discord #bug-reports channel-
