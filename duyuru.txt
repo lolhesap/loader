@@ -1,8 +1,9 @@
-→ Version: 10.22/Working/UD-
-→ New Evade added-
+→ Version: 10.22 Working and UD-
+→ New EvadePlus+ added-
 → Added Seraphine Dodge and logic+-
-→ Added Irelia logic+-
-→ Added Jinx logic+-
+→ Added New Samira logic+-
+→ Added New Irelia logic+-
+→ Added New Draven logic+-
+→ Added New Jinx logic+-
+→ Fix Senna W-
 → Fix FPS drop[Please press ''RESET CONFIG SETTINGS'' button]-
-→ Added Jinx logic+-
-
