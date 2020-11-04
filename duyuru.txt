@@ -3,4 +3,6 @@
 → Added Seraphine Dodge and logic+-
 → Added Irelia logic+-
 → Added Jinx logic+-
+→FIX fps drop[Please press ''CONFIG RESET'' button]-
 → Let us know about your issues or suggestions on Discord #bug-reports channel-
+
