@@ -1,3 +1,3 @@
 → Version: 10.22 Working
 → The script is detected. Main account and do not use and wait for update.
-→ Komut dosyası algılanır. Ana hesap ve kullanmayın ve güncellenmesini bekleyin.
+→ Script şuanda hızlı banlanıyor. Ana hesabınızda kullanmayın ve güncellenmesini bekleyin.
