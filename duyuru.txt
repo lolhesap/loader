@@ -1,2 +1,4 @@
-→ Version: v2 Working-
-
+→ Version: v2 Working & UNDETECTED-
+→ Added Better Flick Mod (F1) Default-
+→ Added RCS (F2)-
+→ Don't use over 100 F0V for your account safety-
