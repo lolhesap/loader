@@ -1,4 +1,5 @@
 → Version: v2 Working & UNDETECTED-
-→ Added Better Fl1ck Mod (F1) Default-
-→ Added Spray M0d with fl1ck (F2)-
+→ Added Better Fl1ck Mod Hotkey (F1)-
+→ Added Spray M0d with fl1ck Hotkey (F2)-
 → Don't use over 100 F0V for your account safety-
+→ Don't Forget to set sensivty on bot settings-
