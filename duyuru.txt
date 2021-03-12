@@ -4,5 +4,5 @@
 → Don't use over 100 F0V for your account safety-
 → Don't Forget to set sensivty on bot settings-
 → Supported F0V Change ingame Hotkeys [+] and [˗]-
-Min set F0V 40 Max set F0V 110
+Min set F0V 40 Max set F0V 110-
 → improved Recoil Control (Only For F2)-
