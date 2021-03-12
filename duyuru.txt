@@ -1,4 +1,5 @@
 → Version: v2 Working & UNDETECTED-
+→ Only Work with 1920x1080 resolution-
 → Added Better Fl1ck Mod Hotkey (F1)-
 → Added Spray M0d with fl1ck Hotkey (F2)-
 → Don't use over 100 F0V for your account safety-
