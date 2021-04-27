@@ -1,12 +1,4 @@
 → Version: v2 Maintenance & UNDETECTED-
-→ Only Work with 1920x1080 resolution-
-→ Added Better Fl1ck Mod Hotkey (F1)-
-→ Added Spray M0d with fl1ck Hotkey (F2)-
-→ Don't use over 100 F0V for your account safety-
-→ Don't Forget to set sensivty on bot settings-
-→ Supported F0V Change ingame Hotkeys [+] and [˗]-
-Min set F0V 40 Max set F0V 110-
-→ improved Recoil Control (Only For F2)-
 *******IMPORTANT***********
 We're investigating the valorant mouse freezing problem, also all subs are paused-
 Valorant için mouse probleminin farkındayız sorunu araştırıyoruz, üyelik süreleri sorun çözülünceye kadar dondurulmuştur-
