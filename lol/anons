@@ -1,14 +1,9 @@
 Status: WORKING UNDETECTED-
-Version: 12.12.2 | 06.25.2022-
-Auto Kill Steal Fix All Heroes-
-Kayle R fix-
-Veigar E dodge fix-
-Added only selected target mode-
-Added Bel'Vet new logic-
-Added Lucian fast combo-
-Added adjustable HP option for Aphelios R-
-Samira Combo Logic improvement-
-Evade minor bugs fixed-
+Version: 12.13.1 | 07.13.2022-
+Updated for last game patch-
+Evade optimization-
+Kogmaw R dodge optimization-
+Xayah Q hitchange optimization-
 ==============-
 Hotkeys-
 X Last Hit-
