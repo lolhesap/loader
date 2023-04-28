@@ -1,6 +1,8 @@
 Status: WORKING-
-Version: 13.8.3| 04.23.2023-
-Kalista Fix-
+Version: 13.8.12| 04.28.2023-
+Added orbwalker arrow design for mouse POS / facing POS-
+Prediction optimization-
+Evade optimization-
 ==============-
 Hotkeys-
 X Last Hit-
