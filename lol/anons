@@ -1,10 +1,9 @@
 Status: WORKING-
-Version: 13.14.7 | 07.22.2023-
-Some bug fix-
-Kaisa R fix-
-Twitch E ks fix-
-Damage stats optimization-
-Hex prediction optimization-
+Version: 13.14.13 | 07.28.2023-
+Updated for mini patch-
+Spell stuck bug fix-
+Prediction optimization-
+Ward draw fix-
 ==============-
 Hotkeys-
 X Last Hit-
